@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/ktima-gourdoupi-icon.svg"
+ },
+ "source_md5": "2c104ea9aa28acb475b38861fdaf7071",
+ "version": "cdc40fca",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "4169df784f5ea67bf277350e58073231"
+ ],
+ "made": "2026-11-18"
+}

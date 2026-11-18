@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><rect width="120" height="120" rx="26" fill="#2F4527"/>
+<circle cx="60" cy="60" r="56" fill="none" stroke="#F7F2E7" stroke-width="6"/>
+<circle class="mk-sun" cx="80" cy="38" r="9" fill="#E3B04B"/>
+<path class="mk-roof" d="M22 72 L54 42 L86 72" fill="none" stroke="#F7F2E7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="mk-roof" d="M33 64 V86 H75 V64" fill="none" stroke="#F7F2E7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="mk-roof" d="M49 86 V72 H59 V86" fill="none" stroke="#F7F2E7" stroke-width="5" stroke-linejoin="round"/>
+<path class="mk-br" d="M18 96 C40 86, 70 90, 102 70" fill="none" stroke="#A9C46A" stroke-width="5" stroke-linecap="round"/>
+<g fill="#A9C46A" class="mk-lv">
+<path d="M34 90.5 c-2 -7 3 -12 9 -12 c0 6 -4 11 -9 12z"/>
+<path d="M50 87.5 c-1 -7 4 -11 10 -11 c-1 6 -5 10 -10 11z"/>
+<path d="M66 84 c0 -7 6 -10 11 -9 c-2 6 -6 9 -11 9z"/>
+<path d="M81 77.5 c1 -6 7 -9 12 -7 c-3 5 -7 8 -12 7z"/>
+<path d="M42 92 c4 5 10 6 15 3 c-4 -4 -10 -5 -15 -3z"/>
+<path d="M60 89 c4 5 10 5 14 2 c-4 -4 -10 -4 -14 -2z"/>
+</g>
+</svg>
